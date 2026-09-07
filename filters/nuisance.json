@@ -1,0 +1,1 @@
+[{"trigger":{"url-filter":"^https?://([^/]+\\.)?webpush\\.jp","load-type":["third-party"]},"action":{"type":"block"}},{"trigger":{"url-filter":"^https?://([^/]+\\.)?onesignal\\.com","load-type":["third-party"]},"action":{"type":"block"}}]
