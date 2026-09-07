@@ -59,7 +59,7 @@ GitHub Pagesで公開するための手順です。公開先リポジトリの�
 
 7. 公開URLが確定したら、`apps/adblock-jp/ios/Shared/RuleUpdater.swift`の
    取得先URL（`baseURL`の既定値）を、確定した`https://<公開URL>/filters/`に
-   合わせて更新する（現在の既定値は`https://pinewrite.github.io/yokete-filters/filters/`という
+   合わせて更新する（現在の既定値は`https://mjryoryo.github.io/yokete-filters/filters/`という
    仮のURLです）。
 
 ## 更新のたびに行うこと（2回目以降）
